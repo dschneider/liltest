@@ -20,10 +20,6 @@ Or install it yourself as:
 
 TODO: Write usage instructions here
 
-get /URL/endpoint
-
-response
-
 ## Contributing
 
 1. Fork it
