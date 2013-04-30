@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Liltest::VERSION
   gem.authors       = ["Dennis Schneider"]
   gem.email         = ["sinned.schneider@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{A small test-framework with Rspec-like syntax}
+  gem.summary       = %q{A small test-framework with Rspec-like syntax}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
