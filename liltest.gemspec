@@ -10,7 +10,8 @@ Gem::Specification.new do |gem|
   gem.email         = ["sinned.schneider@gmail.com"]
   gem.description   = %q{A small test-framework with Rspec-like syntax}
   gem.summary       = %q{A small test-framework with Rspec-like syntax}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/dschneider/liltest"
+
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
